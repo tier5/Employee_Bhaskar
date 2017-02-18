@@ -4,7 +4,7 @@ Follow The Above Steps:
 
 2)Clone Repo --> https://github.com/tier5/Employee_Bhaskar.git
 
-3)Issue the command --> vagrant box add "ubuntu.16.04"
+3)Issue the command -->  vagrant box add ubuntu.16.04 https://cloud-images.ubuntu.com/xenial/current/xenial-server-cloudimg-i386-vagrant.box
 
 4)Issue the command --> vagrant up
 
